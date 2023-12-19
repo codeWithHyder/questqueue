@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
       bottom: 5,
       marginHorizontal: 10,
     //   backgroundColor: '#fff',
-      padding: 5,
+      padding: 15,
+      
     },
     textinput:{
       color:'grey',
