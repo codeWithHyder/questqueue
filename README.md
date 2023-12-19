@@ -133,7 +133,7 @@ npm install expo-cli
 ### Deployment
 
 You can deploy this project using:
-[LIVE DEMO](will be coming soon)
+### [LIVE DEMO]() coming soon
 
 
 github
